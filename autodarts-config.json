@@ -78,6 +78,29 @@
       { "gif": "https://raw.githubusercontent.com/hanaking/autodarts-themes/main/gifs/180/180-03.gif", "sound": "https://tonrepo/sounds/180-03.mp3", "voice": "Incroyable !" },
       { "gif": "https://raw.githubusercontent.com/hanaking/autodarts-themes/main/gifs/180/180-04.gif", "sound": "https://tonrepo/sounds/180-04.mp3", "voice": "Exceptionnel !" },
       { "gif": "https://raw.githubusercontent.com/hanaking/autodarts-themes/main/gifs/180/180-05.gif", "sound": "https://tonrepo/sounds/180-05.mp3", "voice": "Légendaire !" }
+    ],
+    "miss": [
+      { "gif": "gifs/miss/1.gif", "sound": "sounds/miss1.mp3", "voice": "Miss !" },
+      { "gif": "gifs/miss/2.gif", "sound": "sounds/miss2.mp3", "voice": "À côté !" },
+      { "gif": "gifs/miss/3.gif", "sound": "sounds/miss3.mp3", "voice": "Raté complet" },
+      { "gif": "gifs/miss/4.gif", "sound": "sounds/miss4.mp3", "voice": "Ouch" },
+      { "gif": "gifs/miss/5.gif", "sound": "sounds/miss5.mp3", "voice": "C’est raté" }
+    ],
+
+    "25": [
+      { "gif": "gifs/25/25-1.gif", "sound": "sounds/25-1.mp3", "voice": "Petit score" },
+      { "gif": "gifs/25/25-2.gif", "sound": "sounds/25-2.mp3", "voice": "Bull simple" },
+      { "gif": "gifs/25/25-3.gif", "sound": "sounds/25-3.mp3", "voice": "OK" },
+      { "gif": "gifs/25/25-4.gif", "sound": "sounds/25-4.mp3", "voice": "Ça passe" },
+      { "gif": "gifs/25/25-5.gif", "sound": "sounds/25-5.mp3", "voice": "Stable" }
+    ],
+
+    "bull": [
+      { "gif": "gifs/bull/1.gif", "sound": "sounds/bull1.mp3", "voice": "Bull !" },
+      { "gif": "gifs/bull/2.gif", "sound": "sounds/bull2.mp3", "voice": "Plein centre !" },
+      { "gif": "gifs/bull/3.gif", "sound": "sounds/bull3.mp3", "voice": "Impressionnant !" },
+      { "gif": "gifs/bull/4.gif", "sound": "sounds/bull4.mp3", "voice": "Boom !" },
+      { "gif": "gifs/bull/5.gif", "sound": "sounds/bull5.mp3", "voice": "Master Bull !" }
     ]
   }
 }
