@@ -3,5 +3,8 @@
   "theme_2": "themes/theme_2.json",
   "theme_3": "themes/theme_3.json",
   "theme_tournois": "themes/theme_tournois.json",
-  "theme_bg": "themes/background1.json"
+  "theme_bg": "themes/background1.json",
+  "dart-Wm" : "themes/dart-Wm.json",
+  "dart-Wm-Old-School" : "themes/dart-Wm-Old-School.json",
+  "Premiere-League" : "themes/Premiere-League.json"
 }
